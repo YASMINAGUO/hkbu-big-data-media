@@ -11,7 +11,7 @@ Data fields
 
 Title - String. e.g. Extending Xi rule 'would be a farce'
 
-Date - String. e.g. 2018/02/28
+Date - String. e.g. 27 February 2018
 
 Section - String, e.g. China
 
