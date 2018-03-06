@@ -9,7 +9,7 @@ Starting page: http://www.bbc.com/news/world/asia/china
 
 Data fields
 
-Title - String. e.g. 
+Title - String. e.g. Extending Xi rule 'would be a farce'
 
 Date - String. e.g. 2018/02/28
 
@@ -19,4 +19,4 @@ Section - String, e.g. China
 
 Data volume
 
-15 news
+21 pieces
